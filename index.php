@@ -11,3 +11,8 @@ function foo()
 {
     return 'bar';
 }
+
+function qwe()
+{
+    return 'qwe';
+}
