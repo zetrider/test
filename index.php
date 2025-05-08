@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin name: Name4
+ * Plugin name: Name5
  */
 
 /**
@@ -14,5 +14,5 @@ function foo()
 
 function zoo()
 {
-    
+
 }
