@@ -9,7 +9,7 @@
  */
 function foo()
 {
-    return 'bar';
+    return 'qwe';
 }
 
 function zoo()
