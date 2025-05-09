@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin name: Name7
+ * Plugin name: Name8
  */
 
 /**
